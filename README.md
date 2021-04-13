@@ -1,8 +1,6 @@
 # springzookepper
-
-
-
 https://hub.docker.com/_/zookeeper/
+
 docker pull zookeeper
 
 #Start a Zookeeper server instance
